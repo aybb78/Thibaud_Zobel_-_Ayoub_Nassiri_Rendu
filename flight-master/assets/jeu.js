@@ -109,7 +109,7 @@ Vue.createApp({
                 this.map.addLayer(this.geoserverLayer);
         }
         else {
-                this.map.removeLayer(this.objects16);
+                this.map.removeLayer(this.geoserverLayer);
             }
         },
 
