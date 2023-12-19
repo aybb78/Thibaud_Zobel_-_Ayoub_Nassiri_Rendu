@@ -1,0 +1,20 @@
+L'aventurié "ton nom" reçoit un message de Maitre Vincent / Victor  (choisi sur la page d'acceui) après que ce dernier ai pris sa retraite. 
+Le message indique de se rendre chez Leonard de Vinci qui se trouve en Italie.
+Celui-ci donne alors un indice concernant une première merveille, le Collosse de Rhodes où l'on trouve sur la map un premier diamant bleu.
+
+Pour la suite il faut cliquer sur un diamant pour débloquer le suivant jusqu'à l'obtention du diamant rouge. 
+Normalement la progression est permise par les indices de Léonard avec une certaine compréhension du thème (les merveilles d'antan).
+	En cliquant sur le diamant du Colosse le suivant apparait au niveau du Phare d'Alexandrie. 
+	A nouveau celui-ci débloque un autre diamant au temple d'Artemis à Ephese. 
+	Puis le suivant apparait près de la statue chryséléphantine de Zeus à Olympie. 
+	Le suivant apparait au jardins suspendus de Babylone.
+	L'avant dernier apparait au niveau du Mausolée d'Halicarnasse.
+	Enfin le dernier se trouve au niveau de la Pyramide de Gizeh. En le touchant il s'ajoute à l'inventaire, Il appartien à Léonard de Vinci qui veux le récupérer.
+Avec le diamant rouge en poche il faut retourner voir Léonard.
+En sélectionnant le diamant dans l'inventaire puis en cliquant sur le protagoniste, un parchemin contenant un code apparait sur la map. 
+Il faut toucher une seconde fois Léonard pour que son texte se mette à jours. Il indique que le code a été déposé près d'une de ses peintures célèbre, en l'occurence la joconde.
+Le parchemin se trouve donc au Louvre en cliquant dessus on obtient donc le code.
+La suite se passe au niveau du MRS, il faut bien zoomer pour voir le cadena (code digital). En cliquant dessus on a un formulaire pour entrer le code. 
+Il suffit de copier coller le code du parchemin ou alors : 123456789101112131415
+Un popup apparait alors indiquant que le code est bon et on est automatiquement redirigé vers le trésor (en Antarctique). 
+Le jeu se termine lorsqu'on clique dessus.

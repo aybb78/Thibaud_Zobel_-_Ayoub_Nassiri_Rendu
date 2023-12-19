@@ -1,0 +1,34 @@
+<layer>
+  <name>objects</name>
+  <id>LayerInfoImpl-3ed24afc:18c5808637f:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3ed24afc:18c5808637f:-7ffb</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-3ed24afc:18c5808637f:-7ffb</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3ed24afc:18c5808637f:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <authorityURLs>
+    <AuthorityURL>
+      <name>couche_triche</name>
+      <href>http://localhost/jeu/geoworkspace/wms</href>
+    </AuthorityURL>
+  </authorityURLs>
+  <identifiers>
+    <Identifier>
+      <authority>couche_triche</authority>
+      <identifier>couche_triche</identifier>
+    </Identifier>
+  </identifiers>
+  <dateCreated>2023-12-11 09:03:43.247 UTC</dateCreated>
+  <dateModified>2023-12-18 22:46:42.12 UTC</dateModified>
+</layer>
